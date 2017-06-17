@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace SortingEfficiency
 {
     class Program
-    {//changes for git
+    {
         static void Main(string[] args)
         {
             Console.WriteLine("*****Welcome to my app for analyzing sorting methods efficiency*****\n"+
