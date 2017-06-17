@@ -1,0 +1,6 @@
+D:\Csharp\Projects\Sorting efficiency\SortingEfficiency\SortingEfficiency\bin\Debug\SortingEfficiency.exe.config
+D:\Csharp\Projects\Sorting efficiency\SortingEfficiency\SortingEfficiency\bin\Debug\SortingEfficiency.exe
+D:\Csharp\Projects\Sorting efficiency\SortingEfficiency\SortingEfficiency\bin\Debug\SortingEfficiency.pdb
+D:\Csharp\Projects\Sorting efficiency\SortingEfficiency\SortingEfficiency\obj\Debug\SortingEfficiency.exe
+D:\Csharp\Projects\Sorting efficiency\SortingEfficiency\SortingEfficiency\obj\Debug\SortingEfficiency.pdb
+D:\Csharp\Projects\Sorting efficiency\SortingEfficiency\SortingEfficiency\obj\Debug\SortingEfficiency.csprojResolveAssemblyReference.cache
