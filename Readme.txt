@@ -1,0 +1,1 @@
+These are some bits of C# used by myself in the process of learning to code. Started with C and C++ years ago and now I'm trying to come back. 
